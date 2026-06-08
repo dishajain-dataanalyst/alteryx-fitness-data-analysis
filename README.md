@@ -179,7 +179,11 @@ Certificate available in `/docs/certification.pdf`
 
 ## 🌟 About Me
 
-Hi, I'm **Disha Jain** — an IT professional building expertise in data analytics and engineering.
+I'm Disha Jain, an Analytics & BI Professional with 3+ years of experience in data modeling, ETL development, and stakeholder reporting. I've built production Power BI dashboards, engineered ETL workflows for jewelry and CRM data, and automated reporting pipelines using SQL and Power Automate.
+
+I'm currently seeking Data Analyst and BI Developer roles where I can apply both my hands-on SQL/data engineering skills and my experience translating data into decisions for business teams.
+
+📌 Skills: SQL · Power BI · Python · Tableau · Alteryx · Azure · DAX · ETL · Data Modeling · Star Schema
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishadineshjain)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishajain-dataanalyst)
