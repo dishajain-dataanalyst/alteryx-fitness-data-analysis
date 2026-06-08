@@ -93,6 +93,16 @@ The project is organized into **3 chapters**, each building on the previous:
 | `3_4_weekly_activity_analysis.yxmd` | **Complete end-to-end solution**: calculates weekly MVPA (Moderate-to-Vigorous Physical Activity) minutes; compares against the WHO guideline of 150 min/week; categorizes users as Above or Below threshold |
 
 ---
+## 🖼️ Workflow Screenshots
+
+### Chapter 1 — Data Import, Cleaning & Exploration
+![Chapter 1 Workflow](docs/workflow_screenshots/chapter1_workflow.PNG)
+
+### Chapter 2 — Feature Engineering & Health Metrics
+![Chapter 2 Workflow](docs/workflow_screenshots/chapter2_workflow.PNG)
+
+### Chapter 3 — Behavioral Patterns & WHO Compliance
+![Chapter 3 Workflow](docs/workflow_screenshots/chapter3_workflow.PNG)
 
 ## 🔍 Key Findings
 
