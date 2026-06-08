@@ -146,6 +146,10 @@ alteryx-fitness-data-analysis/
 │
 ├── docs/
 │   └── certification.pdf              # DataCamp completion certificate
+|   └── workflow_screenshots/          # All 3 chapters workflows screenshots
+|      ├── chapter1_workflow.PNG
+|      ├── chapter2_workflow.PNG
+|      |── chapter3_workflow.PNG
 │
 ├── README.md
 └── LICENSE
